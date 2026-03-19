@@ -141,3 +141,5 @@ Durante a implementação do projeto encontramos algumas dificuldades que merece
   _Solução:_ Criamos um segundo barramento I²C através do código para os pinos gerais 41 e 42, por meio da biblioteca Wire.h.
 </p>
 
+---
+**Desenvolvido por:** Eduardo Pires, Gabriel Raulino Dal Pont e João Gabriel Batista Cardoso.
